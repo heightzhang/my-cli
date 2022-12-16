@@ -1,2 +1,10 @@
 # my-cli
-提炼脚手架
+
+## 使用说明
+```bash
+# install
+npm install @ken-org/cli -g
+
+# use
+gao create myapp
+```
