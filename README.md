@@ -1,4 +1,4 @@
-# my-cli
+# @ken-org/cli
 
 ## 使用说明
 ```bash
